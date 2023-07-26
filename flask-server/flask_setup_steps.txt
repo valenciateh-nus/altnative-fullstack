@@ -1,0 +1,43 @@
+https://code.visualstudio.com/docs/python/tutorial-flask
+
+1) Create a Project Environment for Flask in VSC
+
+Download Python Extension in VSC. (can check if you have python by command python --version)
+
+# Linux
+sudo apt-get install python3-venv  # If needed
+python3 -m venv .venv
+source .venv/bin/activate
+
+# macOS
+python3 -m venv .venv
+source .venv/bin/activate
+
+# Windows
+py -3 -m venv .venv      (this will create a .venv folder where all libraries and dependencies are kept)
+.venv\scripts\activate   (this will make the terminal have the green (.venv).  to get out of (.venv), type deactivate in terminal)
+
+2) Select Python Interpreter 
+
+Cltr + Shift + P -> Python: Select Interpreter (follow the page as shown in the link above)
+
+
+3) Install/ Upgrade Pip
+
+python -m pip install --upgrade pip
+
+4) Install Flask
+
+python -m pip install flask
+
+5) Install other dependencies
+
+pip install flask beautifulsoup4 flask_cors requests
+
+6) To start the flask server (cltr + c to exit)
+
+cd flask-server  (cd to flask server)
+.venv\scripts\activate (activate virtual env)
+python -m flask run (run flask)
+
+# Let me know if got any issues...

@@ -1,0 +1,5 @@
+::-webkit-scrollbar {
+    display: none;
+  }
+*:focus {outline:0 !important;}
+*:hover {outline:0 !important;}

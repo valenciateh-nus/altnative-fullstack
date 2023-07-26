@@ -1,0 +1,90 @@
+.title {
+  font-weight: bolder;
+  font-size: 2em;
+}
+
+.homepage_title {
+  font-weight: bold;
+  font-size: 1.5em;
+  align-self: center;
+}
+
+.category-box {
+    display: block;
+    height: 5em;
+    width: 5em;
+    min-width: 55px;
+}
+
+.searchbox-container {
+  display: flex;
+  height: 9em;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2vw;
+  margin: 0 1em;
+}
+
+.searchbox-text {
+  font-size: 2em;
+  font-weight: 700;
+  text-decoration: none;
+  line-height: 3vw;
+}
+
+.viewRefashioner-box {
+  display: flex;
+  height: 38vh;
+}
+
+.viewRefashioner-text {
+  font-size: 2vmax;
+  font-weight: bold;
+  text-decoration: none;
+  line-height: 3vh;
+  text-align: left;
+  margin: 2vh 1vh;
+}
+
+.btn {
+  display: block;
+  background: #FB7A56;
+  margin: 2vh 1vh 0;
+  border-radius: 1vh;
+  font-weight: bold;
+}
+
+.big-btn {
+  position: static;
+  background: #FB7A56;
+  color: white;
+  font-weight: bold;
+  font-size: 2vw;
+  max-width: 25vw;
+  min-width: 25vw;
+  min-height: 10vw;
+  max-height: 10vw;
+  padding: 1.5vw 3vw;
+}
+
+.selection-box {
+  position: static;
+  background: #FFE8BC;
+  max-width: 20vw;
+  min-width: 20vw;
+  min-height: 10vw;
+  max-height: 10vw;
+  border-radius: 1vh;
+}
+
+.selection-box-text {
+  font-size: 1.5vw;
+  font-weight: 600;
+  text-decoration: none;
+  line-height: 3vw;
+  text-decoration: none;
+  max-width: 25vw; 
+  max-height: 10vw;
+  overflow: scroll;
+}
+

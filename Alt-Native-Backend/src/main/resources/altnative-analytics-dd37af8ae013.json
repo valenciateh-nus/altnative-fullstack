@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "altnative-analytics",
+  "private_key_id": "dd37af8ae013b60a016d1a930bf0e2d3bde2fa35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNeq0q6qFnzzDG\nIu/4v7SVWiXh8l41JOf8SsdLExX5qZqCGNveYH+nBlyCUgFkPAiVDE007Lg/bZH6\nJrhLruChFSRlTeRJO9979CwJ69DCLT5mYZLRlYw6hn/eB5DHlyvY7G49chEcqIVh\nuK9jcXK5+snScpyeTlZkgrX+xODiWOggNNF51ZY4od1reYq53ogOPqg2iwe6nCxE\nraJa1MNa4cNJmZFiiOXcwGepmg1f8FR+0zDl8TwL06q6B0iIsdLXHPiwOtIaHyE8\nH89ZoA/D24JUJC92f1uT+he42gFYBCSaaSZcg/yzPWPSTgfKKdoWhKlE5V/xZAGd\npaa6up91AgMBAAECggEAAVlWFDNMongVf6OAlE874gQgvgo/jJVEsZ8TDl7edNBk\ne4iqvtu+0sujpVZg/HW5b7MQObH5Jq9zNyN0b8jC4EPZhJG9ly59sdxhQqJp8TBn\nWbg3xMj4zfSOl9hQXsMTDl5E/gHG83t2vrS98AbxZB+tngRTG2Xzwr6p77V+rXW5\ncz34Z5kb6SphQ5Hz9cOBk65h6oYH12L+xne5FtX41TcZR60BvYQO+23IqQJUt1wc\n9noRZ/Tj4yxD9ymP+JeB+nQA4QvLLFgcFH6dksTCVpe/ydaSqN2KpcUVEA+sLt30\ny6VbgrleLj9hKg9MxhmYJCPFFmdwx1viiQ2YkW5WaQKBgQDrA6Wdf8Yknc4v4XQM\nQ1n6lH+Q3qachc/19KoeUKPWoUJLMQFOubmwSt87e652HDO/VQH6fcQu+RqaBl3V\n7T2M6Td/0rRZ8/uBEc0YGqdCwG+7QTvRFqrkJ1QYsvMy+b5sjW8eMSB3Hg2uUMV7\nTf77Zb4lU1C+rS7w5YsTpjnDWQKBgQDf094aM8R31nOgepIxujgwiyypnwbcTlTR\nVTiWAO6hWIeF6k+4TslCqtw1+Kw83AKZ3q4HPQK/+5NZVcibH9rekiDGVcMHdnHp\n4jYdgbY+5VJDYKNZgJWJiRJi5e3NAYSLN0eWLYsla8w/SQeIOxfVxmWxNYsASelD\n7SEyOjGFfQKBgQC8BgntrXmIeByrYBQpb4VAnqhE7m2cUs6j+CBW6qt6H0BbyhRC\nuQLgEbbx7y0QX9Xi4Q8ZKp/X+QKYcjmG2yzgXQJDKP+T7Eiu5eARxdlF5ZI+3Z0O\n1rTYnsKAlENQ6FC6ppldLW7M/mVxrjuhQDCdT7RGRpcWRpaEsxGHIfma2QKBgQDI\nWrZtbfln7CcEd7N1n+O8UFhiXV+exN9XoplMbPkupDhrvxotORke/CKyjS5gK/CI\nG7Rb9lkH0QJM7WTsts8MfHGqGArEG1pMqZkXQI0KL+w7M74E1/0DaBd1P6xl3f3v\nQERsQchUbvIdlBmR8JOdYEKXJf6O+5o6m4EjnMPHYQKBgEL6k5OkH6MwVNSKMFAP\nXxweVJ+xhMmQrtGVqUwVS8eEXJGTL9/weh40RMxEfVm9uhAzFZM8GFbrT5e67pcR\nDbEN6w5WtwSrdnM4Xsacu2Pg/B4RspbtfX6J/FlIsoHQA9knXdcizT+E+d9pDE6n\nyiBA+Ni6ZkvejDh2zDyhdlST\n-----END PRIVATE KEY-----\n",
+  "client_email": "altnative-ga@altnative-analytics.iam.gserviceaccount.com",
+  "client_id": "107054809029640258919",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/altnative-ga%40altnative-analytics.iam.gserviceaccount.com"
+}

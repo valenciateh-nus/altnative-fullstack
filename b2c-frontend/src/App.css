@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+    display: none;
+  }
+*:focus {outline:0 !important;}
+*:hover {outline:0 !important;}
+
+
+.Toastify__toast {
+  border-radius: 20px;
+}
+
